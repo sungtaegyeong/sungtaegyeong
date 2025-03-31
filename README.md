@@ -9,7 +9,8 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/supabase-181818?style=for-the-badge&logo=supabase&logoColor=white">
 
 <h2 align="center">Tool</h2>
 
